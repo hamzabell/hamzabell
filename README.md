@@ -1,9 +1,6 @@
- <!-- reactsquad-banner.png -->
-[![Hire senior React engineers!](https://raw.githubusercontent.com/janhesters/janhesters/main/reactsquad-banner.png)](https://reactsquad.com)
-
 <h1 align="center">Hi 👋, I'm Akan Bassey</h1>
 
-I'm a full-stack developer at [ReactSquad](https://reactsquad.io/) , with a strong foundation in React, Next.js, TypeScript, and Node.js. Experienced in building scalable web applications for various industries, including fintech, logistics, and visitor management. Proficient in agile methodologies and collaborative teamwork. Also contributed to an anti-money-laundering app at ReactSquad. Let's build something amazing together!
+I'm a full-stack developer  with a strong foundation in React, Next.js, TypeScript, and Node.js. Experienced in building scalable web applications for various industries, including fintech, logistics, and visitor management. Proficient in agile methodologies and collaborative teamwork. Also contributed to an anti-money-laundering app at ReactSquad. Let's build something amazing together!
 
 # 💻 Tech Stack:
 
